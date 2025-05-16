@@ -1,5 +1,5 @@
 # ITDS
-This repo is for my final project, in the following I will write down an explanation for it.
+[This](https://github.com/simnpeter/ITDS) repo is for my final project, in the following I will write down an explanation for it.
 
 ## Exercise 1
 - Firstly I imported all the necessary packages for this project  
